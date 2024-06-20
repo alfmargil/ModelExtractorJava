@@ -1,0 +1,78 @@
+Philco PES712W
+Philco PSW 71200
+Philco PSW71400V
+Philco PWD 14S
+Philco PWD614RS
+Philco PWD7512
+Philco PWD851400V
+Zerowatt CS 1510TMSE/1-47
+Zerowatt EOZ 1210T3/1-01
+Zerowatt EOZ 1210TE/1-11
+Zerowatt EOZ 127T3/1-01
+Zerowatt EOZ 127T3/P-01
+Zerowatt EOZ 127TE/1-11
+Zerowatt EOZ 129TE-11
+Zerowatt EOZ 1410TS3/1-01
+Zerowatt EOZ 148T3-01
+Zerowatt EOZ 149TS3-01
+Zerowatt EOZ4 127T3/1-01
+Zerowatt EOZ4127TXE/1-11
+Zerowatt EOZW 4752D/1
+Zerowatt EOZW 4752DE/1-11
+Zerowatt EWZ 4105D-03S
+Zerowatt OZ 10101D3/1-01
+Zerowatt OZ 1061D/L-S
+Zerowatt OZ 1071D-04S
+Zerowatt OZ 1071D/L-S
+Zerowatt OZ 1083D-04S
+Zerowatt OZ 117D-S
+Zerowatt OZ 117D/1-S
+Zerowatt OZ 1275D-01
+Zerowatt OZ 1285D-01
+Zerowatt OZ 1285D/1-01
+Zerowatt OZ 128T-S
+Zerowatt OZ 128T/1-S
+Zerowatt OZ 128TE-S
+Zerowatt OZ 1295D-01
+Zerowatt OZ 1295D3-01
+Zerowatt OZ 129T-S
+Zerowatt OZ 129T/1-S
+Zerowatt OZ 13102DE/1-S
+Zerowatt OZ 1409D
+Zerowatt OZ W642D-30S
+Zerowatt OZ1310T/1/S
+Zerowatt OZ3 084-30
+Zerowatt OZ3 084/L-30
+Zerowatt OZ3 0841D-30
+Zerowatt OZ34 1051D-30
+Zerowatt OZ4 085-30
+Zerowatt OZ4 086-16S
+Zerowatt OZ4 086/L-S
+Zerowatt OZ4 0861D/L-S
+Zerowatt OZ4 105-30
+Zerowatt OZ4 106-16S
+Zerowatt OZ4 106/L-S
+Zerowatt OZ4 106/L1-S
+Zerowatt OZ4 1061D/L-S
+Zerowatt OZ4 1071D1/2-07
+Zerowatt OZ4 1271D3/1-01
+Zerowatt OZ4 1272DE/1-S
+Zerowatt OZ4 127T/1-S
+Zerowatt OZW 4752DE/1-S
+Geratek BOCHUM WM10140
+Iberna IB 12101D3/1-01
+Iberna IB 1210DE/1-11
+Iberna IB 1271D3/1-01
+Iberna IB 1271D3/1-11
+Iberna IB 127DE/1-11
+Iberna IB 1281D3-01
+Iberna IB 128DE-11
+Iberna IB 129DE-11
+Iberna IB1291D3-01
+Iberna IB4 1061D1/2-07
+Iberna IB4 1071D3/1-01
+Iberna IB4 107DXE/1-11
+Franke XQG70-FFS7010W
+Franke XQG70-FFS7012S
+Franke XQG80-FFS8014BS
+Gala GLY 1264 LA
